@@ -5,11 +5,11 @@
 Engenheiro de dados com experiência em soluções de dados ponta a ponta, desde ingestão, transformação e modelagem, até visualização e entrega de insights em ambientes de grande escala.
 
 <h2> Principais habilidades e ferramentas:</h2>
-- Azure: Construção e orquestração de pipelines de ETL, integração com Data Lake e outros serviços gerenciados de armazenamento e processamento de dados
-- Databricks: Desenvolvimento de notebooks com PySpark, integração com o ecossistema Azure e criação de pipelines de dados escaláveis e colaborativos
-- SQL e PySpark: Criação e otimização de queries e jobs para o tratamento de grandes volumes de dados em ambientes distribuídos
-- Modelagem de Dados: Experiência com modelos dimensionais, normalizados e voltados para performance analítica
-- Visualização de Dados: Desenvolvimento de dashboards e relatórios com Power BI, Metabase e Dataflows, transformando dados brutos em insights acionáveis
+- Azure: Construção e orquestração de pipelines de ETL, integração com Data Lake e outros serviços gerenciados de armazenamento e processamento de dados<br>
+- Databricks: Desenvolvimento de notebooks com PySpark, integração com o ecossistema Azure e criação de pipelines de dados escaláveis e colaborativos<br>
+- SQL e PySpark: Criação e otimização de queries e jobs para o tratamento de grandes volumes de dados em ambientes distribuídos<br>
+- Modelagem de Dados: Experiência com modelos dimensionais, normalizados e voltados para performance analítica<br>
+- Visualização de Dados: Desenvolvimento de dashboards e relatórios com Power BI, Metabase e Dataflows, transformando dados brutos em insights acionáveis<br>
 <hr>
 
 ### Contatos
