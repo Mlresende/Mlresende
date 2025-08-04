@@ -1,11 +1,15 @@
-## Olá eu sou o Miguel Luis Resende! 😁
+# Olá, sou o Miguel Luis Resende!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mlresende&show_icons=true&theme=radical)
 
-Sou estudante de Ciências da computação e estou em busca de uma oportunidade na área de Quality Assurance. Estou estudando sobre Fundamentos de teste de software, automação de testes com Java utilizando o Selenium e Cucumber no Eclipse e também estudo desenvolvimento com Java.
-Tenho conhecimento em Front-End, ANGULAR, Gherkin(BDD), Microsoft SQL Server Management Studio e Robot Framework.
+Engenheiro de dados com experiência em soluções de dados ponta a ponta, desde ingestão, transformação e modelagem, até visualização e entrega de insights em ambientes de grande escala.
 
-Sou uma pessoa com olhar analítico, autodidata, determinado, perfeccionista, busco sempre ajudar o próximo se tiver alguma dúvida e não tenho medo de perguntar, gosto de esclarecer todas as minhas dúvidas.
+<h2> Principais habilidades e ferramentas:</h2>
+- Azure: Construção e orquestração de pipelines de ETL, integração com Data Lake e outros serviços gerenciados de armazenamento e processamento de dados
+- Databricks: Desenvolvimento de notebooks com PySpark, integração com o ecossistema Azure e criação de pipelines de dados escaláveis e colaborativos
+- SQL e PySpark: Criação e otimização de queries e jobs para o tratamento de grandes volumes de dados em ambientes distribuídos
+- Modelagem de Dados: Experiência com modelos dimensionais, normalizados e voltados para performance analítica
+- Visualização de Dados: Desenvolvimento de dashboards e relatórios com Power BI, Metabase e Dataflows, transformando dados brutos em insights acionáveis
 <hr>
 
 ### Contatos
